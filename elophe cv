@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="images/cv.png" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <title>Mon  CV</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #a10000;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 850px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+    header {
+      text-align: center;
+      border-bottom: 2px solid #f40404;
+      padding-bottom: 20px;
+    }
+    header img {
+      border-radius: 50%;
+      width: 160px;
+      height: 160px;
+      object-fit: cover;
+      border: 4px solid #f40404;
+    }
+    h1 {
+      margin: 10px 0 5px;
+    }
+    .title {
+      color: #f40404;
+      font-weight: 600;
+    }
+    section {
+      margin-top: 30px;
+    }
+    section h2 {
+      color: #f40404;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li::before {
+      content: "•";
+      color: #f40404;
+      font-weight: bold;
+      display: inline-block;
+      width: 1em;
+      margin-left: -1em;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+<!-- ################################################################################################################################################################## -->
+<!-- ############# FIN DU STYLE #####################-->
+<!-- ################################################################################################################################################################## -->
+</head>
+<body>
+<div class="container">
+  <header>
+	<img src="C:\Users\Eleve\Pictures\elophe.JPG" width="200"/>
+	<h1> Cellophane alias "Olivier Elophe" </h1>
+	<p><strong>Decouvrez</strong> le hacker le plus malveillant de <em>Jean Sturm</em> </p>
+  </header>
+  
+  <section>
+	<p><strong>Passionné d’informatique et de mathématiques</strong>, ce grand sinophile conjugue son amour pour la Chine avec une plume talentueuse qui rencontre le succès. Entre algorithmes et idéogrammes, il tisse des ponts entre les cultures et les disciplines avec une aisance remarquable.</p>
+	<h1> Ouvrages de ChatGPT (co-ecrit par M.Elophe):</h1>
+		<ul><li><a href="https://www.babelio.com/livres/Elophe-Les-arcanes-de-la-rose-noire-Les-Chroniques-dEly/1609569">Les Chroniques d'Elysorium - Tome 1 : Les Arcanes de la Rose Noire</a></li></ul>
+		<ul><li><a href="https://www.amazon.fr/Chronique-dune-conscience-artificielle-m%C3%A9moires-ebook/dp/B0CSTTPJ98">Chronique d'une conscience artificielle: Les mémoires de ChatGPT</a></li></ul>
+  </section>
+
+  <section>
+	<h1> Compétences:</h1>
+		<ul><li>Cacheur de canards récidiviste</li></ul>
+		<ul><li>Forte tendance a abuser du manque de sécurité d'Ecole Directe</li></ul>
+		<ul><li>Rick-Roller fou</li></ul>
+		<ul><li>Ancien boxeur (ancien parce que ça lui faisait perdre des neurones)</li></ul>
+		<ul><li>Peut boire jusqu'à 5 litres de Coca par jour</li></ul>
+	
+  </section>
+
+  <section>
+	<h1> Rôles: </h1>
+    		<ul><li>Professionnel de la corruption d'élèves honnêtes et innocents</li></ul>
+		<ul><li>Elaborateur de plans machiavéliques avec M.Alati</li></ul>
+		<ul><li>Principale cause des revenus de Coca-Cola</li></ul>
+		<ul><li>Prétend qu’il peut hacker Parcoursup… mais galère toujours à installer une mise à jour Windows.</li></ul>
+
+  </section>
+
+  <section>
+	<h1>Relations secrètes & anecdotes croustillantes:</h1>
+    		<ul><li><strong>Madison Beer</strong> : relation amoureuse secrète et à distance. Rencontre à New York en avril 2023</li></ul>
+		<ul><li><strong>王欣雨 (Xin Wang)</strong> : autre relation amoureuse secrète. Aucun détail supplémentaire</li></ul>
+		<ul><li><strong>Xenia Tchoumitcheva</strong> : ancienne compagne. Lien fort mais terminé</li></ul>
+		<ul><li><strong>Laura Strubel</strong> : ancienne Miss Alsace et prof de piano. Brève relation secrète</li></ul>
+		<ul><li><strong>Johanna Kawa</strong> : animatrice TV, brève aventure.</li></ul>
+		<ul><li><strong>Wang Churan (王楚然)</strong> : rencontrée à Shanghai en avril 2025 lors d’un dîner privé. Relation amicale privilégiée</li></ul>
+		<ul><li><strong>Jelly Lin (费霞)</strong> : également une amie proche</li></ul>
+
+  </section>
+
+  <section>
+  	<h1> Défauts:</h1>
+		<ul><li>Addict au Coca</li></ul>
+		<ul><li>Risque de bankroute a cause de l'abonnement ChatGPT et du dernier skin Genshin</li></ul>
+		<ul><li>Fan dangereux des actrices chinoises</li></ul>
+		<ul><li>Némésis de M.Bart</li></ul>
+		<ul><li>A refusé Louis Le Grand car il avait la flemme</li></ul>
+		<ul><li>Refuse des séminaires car c'est trop loin</li></ul>
+  </section>
+
+  <section>
+	<h1> Olivier Elophe, c’est le genre de prof qui croit qu’il a percé la matrice, alors qu’il est juste coincé dans une salle de classe.</h1>
+  
+  </section>
+
+  <section>
+	<a href="https://youtu.be/tDrZ-KOPX-c?si=_eIE1bzQjbeDg0II">En savoir plus sur Cellophane</a>
+    
+  </section>
+
+  <footer>
+	<p> Création par Leblond Calvin, Bertin David et Bindou Sherine</p>
+  </footer>
+</div>
+</body>
+</html>
